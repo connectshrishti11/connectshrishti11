@@ -21,7 +21,7 @@
 
 # 💫 About Me
 
-<img align="right" alt="Female Coding" width="300" src="https://share.google/PvWr75qthigDAFMaq">
+<img align="right" alt="Female Coding" width="300" src="./assets/female-coding.gif">
 
 🎓 2nd-Year B.Tech Student in **Computer Science & Engineering (Artificial Intelligence)**
 
