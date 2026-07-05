@@ -1,18 +1,133 @@
-# 💫 About Me:
-# Hi there 👋, I'm Shrishti Sinha<br><br>🎓 2nd-Year B.Tech Student in Computer Science and Engineering (Artificial Intelligence)<br><br>I'm a passionate learner exploring the fields of programming, problem-solving, and Artificial Intelligence. Currently, I am strengthening my foundation in Python, Data Structures & Algorithms, and software development while continuously building my technical skills through hands-on learning and projects.<br><br>🌱 Currently Learning<br><br>* Python Programming<br>* Data Structures & Algorithms<br>* Object-Oriented Programming<br>* Git & GitHub<br>* Artificial Intelligence Fundamentals<br><br>💻 Technical Skills<br><br>* Python<br>* NumPy<br>* Git & GitHub<br>* Problem Solving<br>* Basic Programming Concepts<br><br>🎯 Goals<br><br>* Build meaningful software projects<br>* Improve problem-solving abilities<br>* Explore AI and Machine Learning<br>* Contribute to open-source projects<br>* Grow as a software developer<br><br>📚 I believe in learning by building, staying curious, and improving a little every day.<br><br>⭐ Thanks for visiting my profile!<br>
+````md id="updated-shrishti-readme"
+<div align="center">
 
+```text
+███████╗██╗  ██╗██████╗ ██╗███████╗██╗  ██╗████████╗██╗   ███████╗██╗███╗   ██╗██╗  ██╗ █████╗
+██╔════╝██║  ██║██╔══██╗██║██╔════╝██║  ██║╚══██╔══╝██║   ██╔════╝██║████╗  ██║██║  ██║██╔══██╗
+███████╗███████║██████╔╝██║███████╗███████║   ██║   ██║   ███████╗██║██╔██╗ ██║███████║███████║
+╚════██║██╔══██║██╔══██╗██║╚════██║██╔══██║   ██║   ██║   ╚════██║██║██║╚██╗██║██╔══██║██╔══██║
+███████║██║  ██║██║  ██║██║███████║██║  ██║   ██║   ██║   ███████║██║██║ ╚████║██║  ██║██║  ██║
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝   ╚══════╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝
+````
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/connectshrishti11) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@SHRISHTI SINHA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:connectshrishti11@gmail.com) 
+### 🚀 B.Tech CSE (AI) Student | AI Enthusiast | Problem Solver
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=connectshrishti11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=connectshrishti11&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=connectshrishti11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Enthusiast;Learning+Programming+%26+Software+Development;Python+%7C+DSA+%7C+Problem+Solving;Exploring+AI+%26+Machine+Learning;Always+Learning+and+Growing"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=connectshrishti11&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://komarev.com/ghpvc/?username=connectshrishti11&label=Profile+Views&color=ff69b4&style=flat" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+---
+
+# 💫 About Me
+
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+
+🎓 2nd-Year B.Tech Student in **Computer Science & Engineering (Artificial Intelligence)**
+
+💡 Passionate about:
+
+* Programming & Problem Solving
+* Artificial Intelligence
+* Software Development
+* Continuous Learning
+* Building Technical Skills
+
+🌱 Currently Learning:
+
+* Python Programming
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Git & GitHub
+* Artificial Intelligence Fundamentals
+
+🎯 Goals:
+
+* Build Meaningful Projects
+* Improve Problem-Solving Skills
+* Explore AI & Machine Learning
+* Contribute to Open Source
+* Grow as a Software Developer
+
+📚 Belief:
+
+> Learning by building, staying curious, and improving every day.
+
+<br clear="right"/>
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+## ⚡ Languages & Tools
+
+<img src="https://skillicons.dev/icons?i=python,c,java,html,css,git,github,vscode&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=black"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=connectshrishti11&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=connectshrishti11&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=connectshrishti11&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=connectshrishti11&theme=radical&no-frame=true&no-bg=true&margin-w=8"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/connectshrishti11">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+   
+
+<a href="mailto:connectshrishti11@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌸 “Stay curious, keep learning, and trust the process.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff69b4,50:c471ed,100:12c2e9"/>
+
+</div>
+```
