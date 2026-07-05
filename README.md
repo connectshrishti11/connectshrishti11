@@ -21,11 +21,13 @@
 
 # 💫 About Me
 
-<p align="right">
-  <img width="300" src="./assets/image_processing20210722-25951-90hfg0.gif">
-</p>
+<table>
+<tr>
+<td width="65%" valign="top">
 
 🎓 2nd-Year B.Tech Student in **Computer Science & Engineering (Artificial Intelligence)**
+
+<br>
 
 💡 Passionate about:
 
@@ -35,6 +37,8 @@
 * Continuous Learning
 * Building Technical Skills
 
+<br>
+
 🌱 Currently Learning:
 
 * Python Programming
@@ -42,6 +46,8 @@
 * Object-Oriented Programming
 * Git & GitHub
 * Artificial Intelligence Fundamentals
+
+<br>
 
 🎯 Goals:
 
@@ -51,11 +57,21 @@
 * Contribute to Open Source
 * Grow as a Software Developer
 
+<br>
+
 📚 Belief:
 
 > Learning by building, staying curious, and improving every day.
 
-<br clear="right"/>
+</td>
+
+<td width="35%" align="center">
+
+<img src="./assets/image_processing20210722-25951-90hfg0.gif" width="300px">
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -71,6 +87,64 @@
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=black"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=connectshrishti11&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=connectshrishti11&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=connectshrishti11&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=connectshrishti11&theme=radical&no-frame=true&no-bg=true&margin-w=8"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/connectshrishti11">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+    
+
+<a href="mailto:connectshrishti11@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌸 “Stay curious, keep learning, and trust the process.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff69b4,50:c471ed,100:12c2e9"/>
 
 </div>
 
