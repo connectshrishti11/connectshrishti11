@@ -1,4 +1,3 @@
-````md id="updated-shrishti-readme"
 <div align="center">
 
 ```text
@@ -130,4 +129,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff69b4,50:c471ed,100:12c2e9"/>
 
 </div>
-```
+
